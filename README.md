@@ -6,7 +6,7 @@ It uses the same Codex desktop transcription flow as the Codex app, but works an
 
 ## Demo
 
-Demo video coming soon.
+https://github.com/user-attachments/assets/ed182fc9-6cc2-4ef0-a2d8-344461a5719e
 
 ## What It Does
 
